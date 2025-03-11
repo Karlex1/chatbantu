@@ -16,6 +16,7 @@ def chat_with_voice():
         gemini_response = generate_response(voice_input)
         print(gemini_response)
 
+
 chat_with_voice()
 #Example Usage
 user_input = input("Enter Prompt")
